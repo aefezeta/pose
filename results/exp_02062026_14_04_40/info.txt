@@ -1,0 +1,4 @@
+Dataset path ../cella_dataset
+Update FPS: 0.850098607015032
+Tracking FPS: 1.8101762500403487
+Mapping FPS: 0.2703405771345752
